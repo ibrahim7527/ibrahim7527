@@ -14,7 +14,7 @@ WRO Competition
 
 🥈 Secured 2nd place in the WRO finals
 
-Earned $1,400 USD and a trip to Saudi Arabia to compete in the WRO semi-finals
+Earned $1,400 USD and a trip to Saudi Arabia to compete in the WRO regional finals
 
 # 💻Tech Stack
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
