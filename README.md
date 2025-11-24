@@ -1,5 +1,5 @@
 # 💫About Me :
-🚀 About Me
+
 My name is Ibrahim, and I am an aspiring software engineer passionate about technology and innovation.
 
 🏆 Achievements
