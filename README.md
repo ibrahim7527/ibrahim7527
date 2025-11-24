@@ -1,5 +1,5 @@
 # 💫About Me :
-my name is ibrahim and im currently working on becimug a future software engineer i have participated in 3 competetions related to STEM ive participated in the KNRC competition the kuwait sceince clubcompetetion and the WRO competition i won gold i the WRO qualifiers and then wnet on to win 2nd place in the WRO finals winnig 1400 USD and a trip to saudia to compete in the semi finals competetion held there
+my name is ibrahim and im currently working on becoming a future software engineer i have participated in 3 competetions related to STEM ive participated in the KNRC competition the kuwait sceince club competetion and the WRO competition i won gold in the WRO qualifiers and then went on to win 2nd place in the WRO finals winning 1400 USD and a trip to saudia arabia to compete in the semi finals competetion held there
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
